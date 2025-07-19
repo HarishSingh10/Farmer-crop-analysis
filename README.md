@@ -24,10 +24,7 @@ This repository contains the backend for the Crop Analysis application, which pr
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/harshvardhan119/Farmercropanalysis.git
  
-   ```
 
 2. **Install dependencies:**
 
